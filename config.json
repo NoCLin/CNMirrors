@@ -1,0 +1,38 @@
+{
+  "python": {
+    "mirrors": [
+      {
+        "name": "Tsinghua TUNA",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+      },
+      {
+        "name": "Douban",
+        "url": "https://pypi.doubanio.com/simple"
+      }
+    ]
+  },
+  "go": {
+    "mirrors": [
+      {
+        "name": "goproxy",
+        "url": "https://goproxy.cn"
+      }
+    ]
+  },
+  "npm": {
+    "mirrors": [
+      {
+        "name": "npm mirror",
+        "url": "https://registry.npmmirror.com"
+      }
+    ]
+  },
+  "alpine": {
+    "mirrors": [
+      {
+        "name": "Tsinghua TUNA",
+        "url": "mirrors.tuna.tsinghua.edu.cn"
+      }
+    ]
+  }
+}
